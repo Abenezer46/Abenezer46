@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abenezer</h1>
-<h3 align="center">A passionate frontend developer from Erhiopia</h3>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezer46&label=Profile%20views&color=0e75b6&style=flat" alt="abenezer46" /> </p>
 
