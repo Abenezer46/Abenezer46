@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **abenezerdemissie123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16JOIbLnZxR5igrBiLjZbo4ZZjurT3ivL/view?usp=sharing](https://drive.google.com/file/d/16JOIbLnZxR5igrBiLjZbo4ZZjurT3ivL/view?usp=sharing)
-
 - ⚡ Fun fact **I love waching anime**
 
 <h3 align="left">Connect with me:</h3>
