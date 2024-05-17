@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abenezer46" alt="abenezer46" /></a> </p>
 
-- 🔭 I’m currently working on [New feds web app](https://news-web-app.pages.dev)
+- 🔭 I’m currently working on [News web app](https://news-web-app.pages.dev)
 
 - 🌱 I’m currently learning **flutter, telegram bot with js**
 
